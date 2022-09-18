@@ -8,7 +8,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosantanadev@gmail.com)
 
 ## SOBRE MIM: 🤪
-No momento estundando javascript, estou me desenvolvendo em Front-end mais gosto também do Back-end e Mobile, sempre gostei e tive curiosidade de saber como as coisas funcionam e a universo da tecnligia é um dos meljhores lugares para satifazer essa minha curiosidade 🚀 
+No momento estundando javascript, estou me desenvolvendo em Front-end mais gosto também do Back-end e Mobile, sempre gostei e tive curiosidade de saber como as coisas funcionam e o universo da programação é um dos melhores lugares para satifazer essas minhas curiosidades 🚀 
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosantanadev&show_icons=true&theme=merko)
